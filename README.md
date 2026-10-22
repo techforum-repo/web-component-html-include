@@ -1,0 +1,1 @@
+> **This repository has moved.** It now lives in [`techforum-samples/Web-Component-HTML-Include`](https://github.com/techforum-repo/techforum-samples/tree/master/Web-Component-HTML-Include), with its full commit history. This repo is archived and read-only.
